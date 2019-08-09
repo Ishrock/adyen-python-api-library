@@ -5,3 +5,6 @@
 releaseguide.md
 venv/
 .idea/
+.vscode/
+*egg-info/
+
